@@ -265,6 +265,7 @@ o	Call the square() function and display the result.
 5.	End.
 
 Program:
+```
 #include <stdio.h>
 void square();
 int main(){
